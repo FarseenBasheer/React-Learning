@@ -38,3 +38,21 @@ Everything in CamelCase
 
 After running press Ctrl+C, otherwise the port will not be killed
 
+Hooks, useState, Spread Operator
+
+We can create a counter with a button
+Install plugin from extensions in VS Code
+type es7, we get
+ES7 React/Redux/GraphQL/React-Native snippets
+install it
+At the botton of vs code, we can find javascript, or markdown. Click on that and search foe javascrip react and select it, so we can easily fill the files. We get autosuggestions.
+
+Hooks
+useState - Used in this context for changing counter value while clicking button. On button click the value of count changes, but doesnot appear in counter. Here we use Hooks - useState.
+There are around 10 Hooks - useContext, useState, like that. And we can create custom Hooks too.
+
+For creating a jsc file, type rfce (react functional export component), then ElementInternals, it will autofill.
+
+Spread Operator
+
+Web service used to bring data from other sites/server
