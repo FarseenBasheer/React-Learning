@@ -56,3 +56,15 @@ For creating a jsc file, type rfce (react functional export component), then Ele
 Spread Operator
 
 Web service used to bring data from other sites/server
+
+useEffect
+
+Mounting means adding a new component
+Updating works when we change the value inside the component
+Unmounting works when the component get out from there
+
+Installed react extension to display props, state and hooks - developer tools
+for chrome - https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en&pli=1
+for firefox - https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+The mounting console prints twice, we removed React.strictMode from index.js and that solved the issue - own risk.
